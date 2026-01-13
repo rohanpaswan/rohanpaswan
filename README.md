@@ -1,5 +1,5 @@
 <h1 align="center">Hi Dev👋, I'm Rohan Paswan</h1>
-<img src="https://www.freepik.com/free-photos-vectors/linkedin-background-banner-software-developer" alt="Profile Banner" width="100%" />
+<h3>A Passionate Software Developer From India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpaswan&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpaswan" /> </p>
